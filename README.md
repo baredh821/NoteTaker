@@ -16,7 +16,8 @@ Note Taker - It is an application to write, Save and Delete notes. User can deci
 
 # Screenshots
 
-<img src = "screenshot1.JPG">
+<img src = "screenshot1.PNG">
+<img src = "screenshot2.PNG">
 
 # Repo Details 
 https://github.com/baredh821/DeveloperProfileGenerator
